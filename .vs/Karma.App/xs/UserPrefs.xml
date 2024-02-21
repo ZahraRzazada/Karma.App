@@ -1,0 +1,201 @@
+﻿<Properties StartupConfiguration="{FC6F6BA0-E3DD-4525-918F-518549985C3D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ehedtagiyev/Desktop/P236 project/KarmaApp/Karma.Service/Services/Implementations/ContactService.cs" relfile="Karma.Service/Services/Implementations/ContactService.cs" line="32" column="1" />
+      <Breakpoint file="/Users/ehedtagiyev/Desktop/P236 project/KarmaApp/Karma.Service/Services/Implementations/OrderService.cs" relfile="Karma.Service/Services/Implementations/OrderService.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Karma.App PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Karma.App/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Karma.App/Controllers/HomeController.cs" Line="22" Column="6" />
+      <File FileName="Karma.App/Views/_ViewImports.cshtml" />
+      <File FileName="Karma.App/Views/Shared/_Layout.cshtml" />
+      <File FileName="Karma.App/Views/Home/Index.cshtml" />
+      <File FileName="Karma.App/Views/Shop/Index.cshtml" />
+      <File FileName="Karma.App/Controllers/BlogController.cs" />
+      <File FileName="Karma.App/Views/Blog/Index.cshtml" />
+      <File FileName="Karma.App/Program.cs" />
+      <File FileName="Karma.App/appsettings.json" />
+      <File FileName="Karma.Core/Entities/Category.cs" />
+      <File FileName="Karma.Data/ServiceRegisterations/DataAccessServiceRegisterExtention.cs" />
+      <File FileName="Karma.Core/Entities/Brand.cs" />
+      <File FileName="Karma.App/ViewModels/ShoopViewModel.cs" />
+      <File FileName="Karma.Core/DTOS/Brands/BrandGetDto.cs" />
+      <File FileName="Karma.Core/Entities/Color.cs" />
+      <File FileName="Karma.Core/DTOS/Colors/ColorGetDto.cs" />
+      <File FileName="Karma.Core/Entities/Position.cs" />
+      <File FileName="Karma.Core/Entities/SocialNetwork.cs" />
+      <File FileName="Karma.Core/Entities/Tag.cs" />
+      <File FileName="Karma.Core/Entities/Blog.cs" />
+      <File FileName="Karma.App/Views/Position/Create.cshtml" />
+      <File FileName="Karma.Core/DTOS/Position/PositionPostDto.cs" />
+      <File FileName="Karma.App/Views/_ViewStart.cshtml" />
+      <File FileName="Karma.Core/DTOS/Position/PositionGetDto.cs" />
+      <File FileName="Karma.Core/DTOS/Tags/TagPostDto.cs" />
+      <File FileName="Karma.Core/DTOS/Tags/TagGetDto.cs" />
+      <File FileName="Karma.App/Views/Tag/Create.cshtml" />
+      <File FileName="Karma.App/Views/Author/Create.cshtml" />
+      <File FileName="Karma.Core/DTOS/Blogs/BlogPostDto.cs" />
+      <File FileName="Karma.Core/DTOS/Blogs/BlogGetDto.cs" />
+      <File FileName="Karma.App/Views/Blog/Detail.cshtml" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" />
+      <File FileName="Karma.App/areas/Admin/Controllers/BrandController.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/CategoryController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Category/Create.cshtml" />
+      <File FileName="Karma.Core/DTOS/Categories/CategoryPostDto.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Category/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Category/Update.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Shared/_Layout.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Brand/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Brand/Update.cshtml" />
+      <File FileName="Karma.Core/Repositories/IBrandRepository.cs" />
+      <File FileName="Karma.Core/Repositories/ICategoryRepository.cs" />
+      <File FileName="Karma.Data/Repositories/BrandRepository.cs" />
+      <File FileName="Karma.Data/Repositories/CategoryRepository.cs" />
+      <File FileName="Karma.Data/Repositories/Repository.cs" />
+      <File FileName="Karma.Service/Services/Interfaces/ICategoryService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/CategoryService.cs" />
+      <File FileName="Karma.Service/Exceptions/ItemNotFoundExcpetion.cs" />
+      <File FileName="Karma.Service/ServiceRegisterations/ServiceLaierServiceRegisterExtention.cs" />
+      <File FileName="Karma.Service/CustomMiddlewares/ExceptionMiddlewareExtensions.cs" />
+      <File FileName="Karma.Service/Services/Interfaces/IBrandService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/BrandService.cs" />
+      <File FileName="Karma.Core/DTOS/Colors/ColorPostDto.cs" />
+      <File FileName="Karma.Core/Repositories/IColorRepository.cs" />
+      <File FileName="Karma.Data/Repositories/ColorRepository.cs" />
+      <File FileName="Karma.Service/Services/Interfaces/IColorService.cs" />
+      <File FileName="Karma.Core/DTOS/Brands/BrandPostDto.cs" />
+      <File FileName="Karma.Service/Services/Implementations/ColorService.cs" />
+      <File FileName="Karma.Core/Entities/BaseEntities/BaseEntity.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Color/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Color/Create.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Color/Update.cshtml" />
+      <File FileName="Karma.Core/Repositories/IPositionRepository.cs" />
+      <File FileName="Karma.Data/Repositories/PositionRepository.cs" />
+      <File FileName="Karma.Service/Services/Interfaces/IPositionService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/PositionService.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/PositionController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Position/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Position/Create.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Position/Update.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Controllers/ColorController.cs" />
+      <File FileName="Karma.Core/Repositories/ITagRepository.cs" />
+      <File FileName="Karma.Data/Repositories/TagRepository.cs" />
+      <File FileName="Karma.Service/Services/Interfaces/ITagService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/TagService.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/TagController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Tag/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Tag/Create.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Tag/Update.cshtml" />
+      <File FileName="Karma.Core/Repositories/IAuthorRepository.cs" />
+      <File FileName="Karma.Data/Repositories/AuthorRepository.cs" />
+      <File FileName="Karma.Service/Responses/CommonResponse.cs" />
+      <File FileName="Karma.Service/Services/Implementations/AuthorService.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/AuthorController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Author/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Author/Create.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Author/Update.cshtml" />
+      <File FileName="Karma.Core/Entities/Author.cs" />
+      <File FileName="Karma.Core/DTOS/Authors/AuthorGetDto.cs" />
+      <File FileName="Karma.Service/Extentions/FileExtention.cs" />
+      <File FileName="Karma.Service/Helpers/Helper.cs" />
+      <File FileName="Karma.Core/Repositories/IBlogRepository.cs" />
+      <File FileName="Karma.Data/Repositories/BlogRepository.cs" />
+      <File FileName="Karma.Service/Services/Interfaces/IBlogService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/BlogService.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/BlogController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Blog/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Blog/Create.cshtml" />
+      <File FileName="Karma.App/Properties/launchSettings.json" />
+      <File FileName="Karma.App/areas/Admin/Views/Blog/Update.cshtml" />
+      <File FileName="Karma.Core/Entities/Specification.cs" />
+      <File FileName="Karma.Core/Entities/ColorProduct.cs" />
+      <File FileName="Karma.Core/Repositories/IProductRepository.cs" />
+      <File FileName="Karma.Core/Repositories/IProductImageRepository.cs" />
+      <File FileName="Karma.Data/Repositories/ProductRepository.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/ProductController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Product/Create.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Product/Index.cshtml" />
+      <File FileName="Karma.Service/Services/Interfaces/IProductService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/ProductService.cs" />
+      <File FileName="Karma.Core/Entities/ProductImage.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Product/Update.cshtml" />
+      <File FileName="Karma.Service/Services/Interfaces/IProductImageService.cs" />
+      <File FileName="Karma.Service/Services/Implementations/ProductIageService.cs" />
+      <File FileName="Karma.App/Views/Shop/Detail.cshtml" />
+      <File FileName="Karma.Service/Responses/PagginatedResponse.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/_ViewImports.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Controllers/HomeController.cs" />
+      <File FileName="Karma.Core/DTOS/Basktes/BasketDto.cs" />
+      <File FileName="Karma.Service/Services/Implementations/BasketService.cs" />
+      <File FileName="Karma.App/Views/Shop/Basket.cshtml" />
+      <File FileName="Karma.App/Controllers/ShopController.cs" />
+      <File FileName="Karma.Data/Contexts/KarmaDbContext.cs" />
+      <File FileName="Karma.Core/Entities/AppUser.cs" />
+      <File FileName="Karma.Data/Migrations/KarmaDbContextModelSnapshot.cs" />
+      <File FileName="Karma.Data/Migrations/20240107115929_addesuer.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/IdentityController.cs" />
+      <File FileName="Karma.Core/DTOS/Identities/LoginDto.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Identity/Login.cshtml" />
+      <File FileName="Karma.App/Views/Shared/_ProductPartialView.cshtml" />
+      <File FileName="Karma.Core/DTOS/Identities/RegisterDto.cs" />
+      <File FileName="Karma.App/Views/Identity/Login.cshtml" />
+      <File FileName="Karma.App/Views/Identity/Register.cshtml" />
+      <File FileName="Karma.App/Controllers/IdentityController.cs" />
+      <File FileName="Karma.Service/ExternalServices/Interfaces/IEmailService.cs" />
+      <File FileName="Karma.Service/ExternalServices/Implementations/EmailService.cs" />
+      <File FileName="Karma.App/wwwroot/Templates/Verify.html" />
+      <File FileName="Karma.Core/DTOS/Identities/UpdateDto.cs" />
+      <File FileName="Karma.App/Views/Identity/Update.cshtml" />
+      <File FileName="Karma.App/Views/Identity/ResetPassword.cshtml" />
+      <File FileName="Karma.App/Views/Identity/ForgetPassword.cshtml" />
+      <File FileName="Karma.Core/Repositories/IBasketRepository.cs" />
+      <File FileName="Karma.Data/Repositories/BasketRepository.cs" />
+      <File FileName="Karma.Data/Configurations/BasketItemConfiguration.cs" />
+      <File FileName="Karma.Core/Entities/Basket.cs" />
+      <File FileName="Karma.App/Controllers/ContactController.cs" />
+      <File FileName="Karma.App/Views/Contact/Index.cshtml" />
+      <File FileName="Karma.Core/Entities/Contact.cs" />
+      <File FileName="Karma.Core/DTOS/Contacts/ContactPostDto.cs" />
+      <File FileName="Karma.Core/DTOS/Contacts/ContactGetDto.cs" />
+      <File FileName="Karma.Core/Repositories/IContactRepositoryy.cs" />
+      <File FileName="Karma.Data/Repositories/ContactRepository.cs" />
+      <File FileName="Karma.Service/Services/Implementations/ContactService.cs" />
+      <File FileName="Karma.Service/Mappers/GlobalMapping.cs" />
+      <File FileName="Karma.App/areas/Admin/Controllers/ContactController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Contact/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Home/Index.cshtml" />
+      <File FileName="Karma.Core/Enums/OrderStatus.cs" />
+      <File FileName="Karma.Core/DTOS/Basktes/BasketGetDto.cs" />
+      <File FileName="Karma.Core/DTOS/Orders/OrderPostDto.cs" />
+      <File FileName="Karma.Service/Services/Implementations/OrderService.cs" Line="72" Column="16" />
+      <File FileName="Karma.App/Views/Shop/Checkout.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Controllers/OrderController.cs" />
+      <File FileName="Karma.App/areas/Admin/Views/Order/Index.cshtml" />
+      <File FileName="Karma.App/areas/Admin/Views/Order/Detail.cshtml" />
+      <File FileName="Karma.Core/Entities/Order.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Karma.App" expanded="True">
+            <Node name="Karma.App">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Karma.Service" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Implementations" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

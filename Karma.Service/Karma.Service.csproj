@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Services\Implementations\" />
+    <None Remove="Exceptions\" />
+    <None Remove="ServiceRegisterations\" />
+    <None Remove="CustomMiddlewares\" />
+    <None Remove="Responses\" />
+    <None Remove="Extentions\" />
+    <None Remove="Helpers\" />
+    <None Remove="ExternalServices\" />
+    <None Remove="ExternalServices\Interfaces\" />
+    <None Remove="Mappers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Services\Implementations\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="ServiceRegisterations\" />
+    <Folder Include="CustomMiddlewares\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Extentions\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="ExternalServices\" />
+    <Folder Include="ExternalServices\Interfaces\" />
+    <Folder Include="ExternalServices\Implementations\" />
+    <Folder Include="Mappers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Karma.Data\Karma.Data.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.25" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+</Project>
